@@ -1,0 +1,8 @@
+//should have JSOn syntax
+// configure cypress application to run with the..
+{
+    "baseURL": "hyytp://localhost/3000/",
+    "viewportWidth": "400",
+    "viewportWidth": "900",
+    "integrationFolder": "cypres/e2e"   // link 
+}
